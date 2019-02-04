@@ -2,6 +2,14 @@
 
 > Collection of dramas on Github
 
+## Breaking changes
+* [terser-webpack-plugin](https://github.com/webpack-contrib/terser-webpack-plugin) broke [webpack](https://github.com/webpack/webpack)
+  * Original issue: https://github.com/webpack-contrib/terser-webpack-plugin/issues/66
+  * PR to fix: https://github.com/terser-js/terser/pull/254
+  * Other issues:
+    * https://github.com/webpack/webpack/issues/8694
+    * https://github.com/facebook/create-react-app/issues/6334
+
 ## User Experience - marketing & change in workflow
 
 * [docker.github.io](https://github.com/docker/docker.github.io)
