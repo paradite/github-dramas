@@ -1,6 +1,6 @@
 # Github Dramas
 
-> Collection of dramas on Github
+> Collection of dramas on Github (and other Git hosting platforms)
 
 ## Breaking changes
 * [terser-webpack-plugin](https://github.com/webpack-contrib/terser-webpack-plugin) broke [webpack](https://github.com/webpack/webpack)
@@ -25,6 +25,12 @@
 
 * [redis](https://github.com/antirez/redis)
   * Original issue: https://github.com/antirez/redis/issues/5335
+
+## Politics - hiring exclusion of certain geographical regions
+
+* [GitLab](https://gitlab.com/gitlab-com/www-gitlab-com)
+  * Original issue: https://gitlab.com/gitlab-com/www-gitlab-com/issues/5555
+  * Update blog post: https://about.gitlab.com/blog/2019/11/12/update-on-hiring/
 
 ---
 
