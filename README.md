@@ -47,6 +47,7 @@
 [babel](https://github.com/babel/babel)
 * Original blogpost: [Babel is used by millions, so why are we running out of money?](https://babeljs.io/blog/2021/05/10/funding-update.html)
 * Response by Sebastian (creator of Babel): https://twitter.com/sebmck/status/1392019586833387522
+  * Response to Sebastian by Evan You(creator of Vue.js): https://twitter.com/youyuxi/status/1392088730438090756
 * HN thread: https://news.ycombinator.com/item?id=27114718
 
 ---
