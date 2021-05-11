@@ -2,7 +2,7 @@
 
 > Collection of dramas on Github (and other Git hosting platforms)
 
-## Unexpected bug
+## Bug
 [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver)
 * Original issue: https://github.com/linuxmint/cinnamon-screensaver/issues/354
 
@@ -41,6 +41,12 @@
 [GitLab](https://gitlab.com/gitlab-com/www-gitlab-com)
 * Original issue: https://gitlab.com/gitlab-com/www-gitlab-com/issues/5555
 * Update blog post: https://about.gitlab.com/blog/2019/11/12/update-on-hiring/
+
+**Funding**
+[babel](https://github.com/babel/babel)
+* Original blogpost: [Babel is used by millions, so why are we running out of money?](https://babeljs.io/blog/2021/05/10/funding-update.html)
+* Response by Sebastian (creator of Babel): https://twitter.com/sebmck/status/1392019586833387522
+* HN thread: https://news.ycombinator.com/item?id=27114718
 
 ---
 
