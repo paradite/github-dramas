@@ -43,6 +43,7 @@
 * Update blog post: https://about.gitlab.com/blog/2019/11/12/update-on-hiring/
 
 **Funding**
+
 [babel](https://github.com/babel/babel)
 * Original blogpost: [Babel is used by millions, so why are we running out of money?](https://babeljs.io/blog/2021/05/10/funding-update.html)
 * Response by Sebastian (creator of Babel): https://twitter.com/sebmck/status/1392019586833387522
