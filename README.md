@@ -72,7 +72,7 @@
    * https://github.com/graphql/graphiql/issues/1865
 
 ## Bug
-[cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver) - Screensaver lock by-pass via the virtual keyboard <sup>Dec 28, 202</sup>
+<sup>Dec 28, 2020</sup> [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver) - Screensaver lock by-pass via the virtual keyboard 
 * Original issue: https://github.com/linuxmint/cinnamon-screensaver/issues/354
 
 ---
