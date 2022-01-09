@@ -9,7 +9,7 @@
 * Malicous accusation: https://github.com/greatsuspender/thegreatsuspender/issues/1263
 * HN thread: https://news.ycombinator.com/item?id=25846504
 
-[veged/coa](https://github.com/veged/coa) (Command-Option-Argument) <sup>Nov 4, 2021
+[veged/coa](https://github.com/veged/coa) (Command-Option-Argument) <sup>Nov 4, 2021</sup>
 * Original issue: https://github.com/veged/coa/issues/99
 * cnpm fix: https://github.com/cnpm/bug-versions/pull/157
 
@@ -28,6 +28,16 @@
 * Original discussion: https://github.com/sindresorhus/meta/discussions/15
 * ES Modules are terrible, actually
   * https://gist.github.com/joepie91/bca2fda868c1e8b2c2caf76af7dfcad3
+
+[faker.js emptied](https://github.com/Marak/faker.js) - faker.js author Marak emptying faker.js intentionally <sup>Jan 5, 2022</sup>
+* Empty repo: https://github.com/Marak/faker.js
+* Community org faker-js fork: https://github.com/faker-js/faker.js
+* Marak's GitHub account suspended after he erased his faker project: https://twitter.com/marak/status/1479200803948830724
+  * HN discussion: https://news.ycombinator.com/item?id=29837473
+
+[colors.js Zalgo](https://github.com/Marak/colors.js) - colors.js author Marak breaking colors.js intentionally <sup>Jan 8, 2022</sup>
+* Original issue (posted by author): https://github.com/Marak/colors.js/issues/285
+* Commit: https://github.com/Marak/colors.js/commit/074a0f8ed0c31c35d13d28632bd8a049ff136fb6#diff-92bbac9a308cd5fcf9db165841f2d90ce981baddcb2b1e26cfff170929af3bd1R18
 
 ## Politics
 
