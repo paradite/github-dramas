@@ -1,7 +1,7 @@
 # Github Dramas
 
 > Collection of dramas on Github (and other Git hosting platforms)
-> Last update: 11 Nov 2021
+> Last update: 9 Jan 2022
 
 ## Malicious owner takeover
 <sup>Jun 20, 2020</sup> [The Great Suspender](https://github.com/greatsuspender/thegreatsuspender) 
