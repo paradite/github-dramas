@@ -77,6 +77,14 @@
 
 ---
 
+## More dramas
+
+HN-ratio
+> Hacker News ranked by Comment/Score ratio
+
+https://paradite.github.io/hn-ratio/
+* GitHub: https://github.com/paradite/hn-ratio
+
 ## Prior arts and their issues
 
 https://github.com/nikolas/github-drama
