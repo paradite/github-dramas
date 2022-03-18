@@ -101,3 +101,9 @@ https://paradite.github.io/hn-ratio/
 https://github.com/nikolas/github-drama
 * No categorization or context on the drama, just links
 * [Not being maintained actively](https://github.com/nikolas/github-drama/pulls)
+
+---
+
+PRs and issues welcomed.
+
+If you viewing this on GitHub or any git hosting platforms, note that you are viewing a mirror. The sole source of truth resides in Zhu Liang's mind.
