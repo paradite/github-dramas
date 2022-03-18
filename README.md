@@ -6,6 +6,12 @@
 
 ## 2022
 
+[16 March, 2022 | Controversial | Politics] [vue-cli](https://github.com/vuejs/vue-cli) [node-ipc](https://github.com/RIAEvangelist/node-ipc) - vue-cli dependency on node-ipc potentially overwrites user files
+* Main issue on vue-cli to warn users about the impact: https://github.com/vuejs/vue-cli/issues/7054
+* Original issue (some comments deleted or edited by RIAEvangelist): https://github.com/RIAEvangelist/node-ipc/issues/233
+  * Commit that contains overwite logic: https://github.com/RIAEvangelist/peacenotwar/blob/5b72bd82cae6f555983a2e04821a54027a774269/index.js#L16-L29
+  * Repo for the overwrite code (`protestware`): https://github.com/RIAEvangelist/peacenotwar
+
 [Jan 8, 2022 | Breaking] [colors.js Zalgo](https://github.com/Marak/colors.js) - colors.js author Marak breaking colors.js intentionally 
 * Original issue (posted by author): https://github.com/Marak/colors.js/issues/285
 * Commit: https://github.com/Marak/colors.js/commit/074a0f8ed0c31c35d13d28632bd8a049ff136fb6#diff-92bbac9a308cd5fcf9db165841f2d90ce981baddcb2b1e26cfff170929af3bd1R18
