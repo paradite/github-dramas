@@ -11,6 +11,8 @@
 * Original issue (some comments deleted or edited by RIAEvangelist): https://github.com/RIAEvangelist/node-ipc/issues/233
   * Commit that contains overwite logic: https://github.com/RIAEvangelist/peacenotwar/blob/5b72bd82cae6f555983a2e04821a54027a774269/index.js#L16-L29
   * Repo for the overwrite code (`protestware`): https://github.com/RIAEvangelist/peacenotwar
+* snyk vulnerability alert blogpost: https://snyk.io/blog/peacenotwar-malicious-npm-node-ipc-package-vulnerability/
+* HN discussion: https://news.ycombinator.com/item?id=30717382
 
 [Jan 8, 2022 | Breaking] [colors.js Zalgo](https://github.com/Marak/colors.js) - colors.js author Marak breaking colors.js intentionally 
 * Original issue (posted by author): https://github.com/Marak/colors.js/issues/285
