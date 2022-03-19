@@ -6,7 +6,7 @@
 
 ## 2022
 
-[16 March, 2022 | Controversial | Politics] [vue-cli](https://github.com/vuejs/vue-cli) [node-ipc](https://github.com/RIAEvangelist/node-ipc) - vue-cli dependency on node-ipc potentially overwrites user files
+[March 16, 2022 | Controversial | Politics] [vue-cli](https://github.com/vuejs/vue-cli) [node-ipc](https://github.com/RIAEvangelist/node-ipc) - vue-cli dependency on node-ipc potentially overwrites user files
 * Main issue on vue-cli to warn users about the impact: https://github.com/vuejs/vue-cli/issues/7054
 * Original issue (some comments deleted or edited by RIAEvangelist): https://github.com/RIAEvangelist/node-ipc/issues/233
   * Commit that contains overwite logic: https://github.com/RIAEvangelist/peacenotwar/blob/5b72bd82cae6f555983a2e04821a54027a774269/index.js#L16-L29
@@ -26,7 +26,7 @@
 
 ## 2021
 
-[Nov 4, 2021] [Takeover] [veged/coa](https://github.com/veged/coa) (Command-Option-Argument) - Malicious owner takeover
+[Nov 4, 2021] [Malicious Takeover] [veged/coa](https://github.com/veged/coa) (Command-Option-Argument) - Malicious owner takeover of npm package
 * Original issue: https://github.com/veged/coa/issues/99
 * cnpm fix: https://github.com/cnpm/bug-versions/pull/157
 
@@ -57,9 +57,9 @@
 [Dec 28, 2020 | Bug] [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver) - Screensaver lock by-pass via the virtual keyboard 
 * Original issue: https://github.com/linuxmint/cinnamon-screensaver/issues/354
 
-[Jun 20, 2020 | Takeover] [The Great Suspender](https://github.com/greatsuspender/thegreatsuspender) - Malicious owner takeover
+[Jun 20, 2020 | Malicious Takeover] [The Great Suspender](https://github.com/greatsuspender/thegreatsuspender) - Malicious owner takeover of Chrome extension
 * Original owner takeover issue: https://github.com/greatsuspender/thegreatsuspender/issues/1175
-* Malicous accusation: https://github.com/greatsuspender/thegreatsuspender/issues/1263
+* Malicious accusation: https://github.com/greatsuspender/thegreatsuspender/issues/1263
 * HN thread: https://news.ycombinator.com/item?id=25846504
 
 ## 2019
@@ -77,6 +77,9 @@
   * https://github.com/facebook/create-react-app/issues/6334
 
 ## 2018
+
+[Nov 21, 2018] [Malicious Takeover] [event-stream](https://github.com/dominictarr/event-stream) - Malicious owner takeover of npm package
+* Original issue: https://github.com/dominictarr/event-stream/issues/116
 
 [Jun 20, 2018 | Breaking] [docker.github.io](https://github.com/docker/docker.github.io) - Cannot download Docker CE without logging in 
 * Original issue: https://github.com/docker/docker.github.io/issues/6910
