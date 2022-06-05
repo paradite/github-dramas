@@ -2,9 +2,13 @@
 
 > Collection of dramas on GitHub (and else where)
 > 
-> Last update: 18 March 2022
+> Last update: June 3, 2022
 
 ## 2022
+
+[June 3, 2022 | Notification spam] [EpicGames/Signup](https://github.com/EpicGames/Signup) - Notification spam of 400k GitHub users due to tagging `@EpicGames/developers` on GitHub
+* Original PR: https://github.com/EpicGames/Signup/pull/24
+* HN discussion: https://news.ycombinator.com/item?id=31627061
 
 [March 16, 2022 | Controversial | Politics] [vue-cli](https://github.com/vuejs/vue-cli) [node-ipc](https://github.com/RIAEvangelist/node-ipc) - vue-cli dependency on node-ipc potentially overwrites user files
 * Main issue on vue-cli to warn users about the impact: https://github.com/vuejs/vue-cli/issues/7054
