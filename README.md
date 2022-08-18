@@ -6,13 +6,13 @@
 
 ## 2022
 
-[EpicGames/Signup](https://github.com/EpicGames/Signup) - Notification spam of 400k GitHub users due to tagging `@EpicGames/developers` on GitHub
+**EpicGames/Signup** - Notification spam of 400k GitHub users due to tagging `@EpicGames/developers` on GitHub
 
 > June 3, 2022 | Notification spam
 * Original PR: https://github.com/EpicGames/Signup/pull/24
 * HN discussion: https://news.ycombinator.com/item?id=31627061
 
-[vue-cli](https://github.com/vuejs/vue-cli) [node-ipc](https://github.com/RIAEvangelist/node-ipc) - vue-cli dependency on node-ipc potentially overwrites user files
+**vue-cli** **node-ipc** - vue-cli dependency on node-ipc potentially overwrites user files
 > March 16, 2022 | Controversial | Politics
 * Main issue on vue-cli to warn users about the impact: https://github.com/vuejs/vue-cli/issues/7054
 * Original issue (some comments deleted or edited by RIAEvangelist): https://github.com/RIAEvangelist/node-ipc/issues/233
@@ -21,13 +21,13 @@
 * snyk vulnerability alert blogpost: https://snyk.io/blog/peacenotwar-malicious-npm-node-ipc-package-vulnerability/
 * HN discussion: https://news.ycombinator.com/item?id=30717382
 
-[colors.js Zalgo](https://github.com/Marak/colors.js) - colors.js author Marak breaking colors.js intentionally
+**colors.js Zalgo** - colors.js author Marak breaking colors.js intentionally
 
 > Jan 8, 2022 | Breaking
 * Original issue (posted by author): https://github.com/Marak/colors.js/issues/285
 * Commit: https://github.com/Marak/colors.js/commit/074a0f8ed0c31c35d13d28632bd8a049ff136fb6#diff-92bbac9a308cd5fcf9db165841f2d90ce981baddcb2b1e26cfff170929af3bd1R18
 
-[faker.js emptied](https://github.com/Marak/faker.js) - faker.js author Marak emptying faker.js intentionally
+**faker.js emptied** - faker.js author Marak emptying faker.js intentionally
 
 > Jan 5, 2022 | Breaking
 * Empty repo: https://github.com/Marak/faker.js
@@ -37,17 +37,17 @@
 
 ## 2021
 
-[veged/coa](https://github.com/veged/coa) (Command-Option-Argument) - Malicious owner takeover of npm package
+**veged/coa** (Command-Option-Argument) - Malicious owner takeover of npm package
 
 > Nov 4, 2021 | Malicious Takeover
 * Original issue: https://github.com/veged/coa/issues/99
 * cnpm fix: https://github.com/cnpm/bug-versions/pull/157
 
-[TypeScript](https://github.com/microsoft/TypeScript) - Concerns with TypeScript 4.5's Node 12+ ESM Support
+**TypeScript ESM** - Concerns with TypeScript 4.5's Node 12+ ESM Support
 > Oct 21, 2021 | Controversial
 * Original issue: https://github.com/microsoft/TypeScript/issues/46452
 
-[sindresorhus](https://github.com/sindresorhus/) - The ESM move
+**sindresorhus ESM** - The ESM move
 
 > Jan 6, 2021 | Controversial
 * Original discussion: https://github.com/sindresorhus/meta/discussions/15
@@ -60,7 +60,7 @@
 * Meta: Native support for ES Modules
   * https://github.com/facebook/jest/issues/9430
 
-[graphiql](https://github.com/graphql/graphiql) - Political stance
+**graphiql** - Political stance
 
 > May 23, 2021 | Politics
 * Original commit: https://github.com/graphql/graphiql/commit/7d0b7d477195ee240e0e9ac800a00d17eb91bac4
@@ -73,7 +73,7 @@
    * https://github.com/graphql/graphiql/issues/1862
    * https://github.com/graphql/graphiql/issues/1865
 
-[babel](https://github.com/babel/babel) - Funding disputes
+**babel** - Funding disputes
 
 > May 10, 2021 | Politics
 * Original blogpost: [Babel is used by millions, so why are we running out of money?](https://babeljs.io/blog/2021/05/10/funding-update.html)
@@ -83,12 +83,12 @@
 
 ## 2020
 
-[cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver) - Screensaver lock by-pass via the virtual keyboard
+**cinnamon-screensaver** - Screensaver lock by-pass via the virtual keyboard
 
 > Dec 28, 2020 | Bug
 * Original issue: https://github.com/linuxmint/cinnamon-screensaver/issues/354
 
-[The Great Suspender](https://github.com/greatsuspender/thegreatsuspender) - Malicious owner takeover of Chrome extension
+**The Great Suspender** - Malicious owner takeover of Chrome extension
 
 > Jun 20, 2020 | Malicious Takeover
 * Original owner takeover issue: https://github.com/greatsuspender/thegreatsuspender/issues/1175
@@ -97,14 +97,14 @@
 
 ## 2019
 
-[GitLab](https://gitlab.com/gitlab-com/www-gitlab-com) - Hiring exclusion of certain geographical regions
+**GitLab** - Hiring exclusion of certain geographical regions
 
 > Oct 17, 2019 | Politics
 * Original issue: https://gitlab.com/gitlab-com/www-gitlab-com/issues/5555 (seems to be deleted, 404 now)
 * Merge request: https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/32606
 * Update blog post: https://about.gitlab.com/blog/2019/11/12/update-on-hiring/
 
-[terser-webpack-plugin](https://github.com/webpack-contrib/terser-webpack-plugin) - Terser v3.16.0 breaks webpack
+**terser-webpack-plugin** - Terser v3.16.0 breaks webpack
 
 > Feb 3, 2019 | Breaking
 * Original issue: https://github.com/webpack-contrib/terser-webpack-plugin/issues/66
@@ -115,23 +115,23 @@
 
 ## 2018
 
-[event-stream](https://github.com/dominictarr/event-stream) - Malicious owner takeover of npm package
+**event-stream** - Malicious owner takeover of npm package
 
 > Nov 21, 2018 | Malicious Takeover
 * Original issue: https://github.com/dominictarr/event-stream/issues/116
 
-[docker.github.io](https://github.com/docker/docker.github.io) - Cannot download Docker CE without logging in
+**Docker** - Cannot download Docker CE without logging in
 
 > Jun 20, 2018 | Breaking
 * Original issue: https://github.com/docker/docker.github.io/issues/6910
 
-[lerna](https://github.com/lerna/lerna) - License exclusion of certain companies
+**lerna** - License exclusion of certain companies
 
 > Aug 29, 2018 | Politics
 * Original PR: https://github.com/lerna/lerna/pull/1616
 * Reverted via: https://github.com/lerna/lerna/pull/1633
 
-[redis](https://github.com/antirez/redis) - Controversial terminology & wording
+**redis** - Controversial terminology & wording
 
 > Sep 8, 2018 | Politics
 * Original issue: https://github.com/antirez/redis/issues/5335
@@ -140,8 +140,7 @@
 
 ## More dramas
 
-HN-ratio
-> Hacker News ranked by Comment/Score ratio
+**HN-ratio** - Hacker News ranked by Comment/Score ratio
 
 https://paradite.github.io/hn-ratio/
 * GitHub: https://github.com/paradite/hn-ratio
