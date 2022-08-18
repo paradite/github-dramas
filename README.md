@@ -2,7 +2,7 @@
 
 > Collection of dramas on GitHub (and else where)
 > 
-> Last update: June 3, 2022
+> Last update: August 19, 2022
 
 ## 2022
 
