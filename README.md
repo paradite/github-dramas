@@ -2,7 +2,16 @@
 
 > Collection of dramas on GitHub (and else where)
 > 
-> Last update: August 19, 2022
+> Last update: Sep 28, 2023
+
+## 2023
+
+**Insomnia** - Requiring an account to use the app
+
+> Sep 28, 2023 | Breaking | Controversial
+
+* Original issue: https://github.com/Kong/insomnia/issues/6577
+* HN discussion: https://news.ycombinator.com/item?id=37680126
 
 ## 2022
 
