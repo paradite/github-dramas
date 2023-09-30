@@ -11,7 +11,12 @@
 > Sep 28, 2023 | Breaking | Controversial
 
 * Original issue: https://github.com/Kong/insomnia/issues/6577
-* HN discussion: https://news.ycombinator.com/item?id=37680126
+  * HN discussion: https://news.ycombinator.com/item?id=37680126
+* GitHub Discussion: https://github.com/Kong/insomnia/discussions/6590
+  * CTO of Kong's response in the discussion: https://github.com/Kong/insomnia/discussions/6590#discussioncomment-7137469
+* Tweet by the original author @GregorySchier: https://twitter.com/GregorySchier/status/1707472402454835593
+* A fork of Insomnia - Insomnium: https://github.com/ArchGPT/insomnium
+  * HN discussion on the fork: https://news.ycombinator.com/item?id=37708582
 
 ## 2022
 
