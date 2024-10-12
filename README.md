@@ -6,7 +6,7 @@
 
 ## 2024
 
-**ungap PR for MDN Web Docs** - PR to add @ungap/raw-json Ponyfill to MDN Web Docs
+**ungap & MDN** - Rejected PR to add @ungap/raw-json to MDN Web Docs
 
 > Oct 10, 2024 | Controversial
 
