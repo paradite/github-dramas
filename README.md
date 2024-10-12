@@ -2,7 +2,16 @@
 
 > Collection of dramas on GitHub (and else where)
 > 
-> Last update: Sep 30, 2023
+> Last update: Oct 13, 2024
+
+## 2024
+
+**ungap PR for MDN Web Docs** - PR to add @ungap/raw-json Ponyfill to MDN Web Docs
+
+> Oct 10, 2024 | Controversial
+
+* Original issue: https://github.com/mdn/content/pull/36294
+ * Tweet: https://x.com/WebReflection/status/1844739553241731390
 
 ## 2023
 
