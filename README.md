@@ -16,7 +16,7 @@
 **Redis** - Changes license then changes it back
 
 > Mar 20, 2024 | Controversial
- * Original commit: https://github.com/redis/redis/commit/0b34396924eca4edc524469886dc5be6c77ec4ed
+ * Original pull request: https://github.com/redis/redis/pull/13157
    * CEO states why: https://redis.io/blog/redis-adopts-dual-source-available-licensing/
  * Backlash: https://arstechnica.com/information-technology/2024/04/redis-license-change-and-forking-are-a-mess-that-everybody-can-feel-bad-about/
    * HN discussion: https://news.ycombinator.com/item?id=39772562
