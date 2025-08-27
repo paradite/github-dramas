@@ -2,7 +2,7 @@
 
 > Collection of dramas on GitHub (and else where)
 > 
-> Last update: Oct 13, 2024
+> Last update: Aug 26, 2025
 
 ## 2024
 
@@ -12,6 +12,19 @@
 
 * Original issue: https://github.com/mdn/content/pull/36294
  * Tweet: https://x.com/WebReflection/status/1844739553241731390
+
+**Redis** - Changes license then changes it back
+
+> Mar 20, 2024 | Controversial
+ * Original pull request: https://github.com/redis/redis/pull/13157
+   * CEO states why: https://redis.io/blog/redis-adopts-dual-source-available-licensing/
+ * Backlash: https://arstechnica.com/information-technology/2024/04/redis-license-change-and-forking-are-a-mess-that-everybody-can-feel-bad-about/
+   * HN discussion: https://news.ycombinator.com/item?id=39772562
+   * Accusation of rug pull: https://openpath.quest/2024/relicensing-and-rug-pulls/
+   * Tweet: https://x.com/bradgessler/status/1770875838193713493
+   * Tweet: https://x.com/matteocollina/status/1770808971336544691
+   * HN Comparing alternitives: https://news.ycombinator.com/item?id=31796311
+ * Reversion to more open license: https://www.theregister.com/2025/05/01/redis_returns_to_open_source/?td=rt-3a
 
 ## 2023
 
@@ -31,12 +44,12 @@
 
 **EpicGames/Signup** - Notification spam of 400k GitHub users due to tagging `@EpicGames/developers` on GitHub
 
-> June 3, 2022 | Notification spam
+> Jun 3, 2022 | Notification spam
 * Original PR: https://github.com/EpicGames/Signup/pull/24
 * HN discussion: https://news.ycombinator.com/item?id=31627061
 
 **vue-cli** **node-ipc** - vue-cli dependency on node-ipc potentially overwrites user files
-> March 16, 2022 | Controversial | Politics
+> Mar 16, 2022 | Controversial | Politics
 * Main issue on vue-cli to warn users about the impact: https://github.com/vuejs/vue-cli/issues/7054
 * Original issue (some comments deleted or edited by RIAEvangelist): https://github.com/RIAEvangelist/node-ipc/issues/233
   * Commit that contains overwite logic: https://github.com/RIAEvangelist/peacenotwar/blob/5b72bd82cae6f555983a2e04821a54027a774269/index.js#L16-L29
